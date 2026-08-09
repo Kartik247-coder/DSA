@@ -11,6 +11,7 @@
 | ------- |
 | [0991-broken-calculator](https://github.com/Kartik247-coder/DSA/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Kartik247-coder/DSA/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [1328-break-a-palindrome](https://github.com/Kartik247-coder/DSA/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,4 +33,12 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Array
+|  |
+| ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
