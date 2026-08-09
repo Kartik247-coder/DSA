@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0991-broken-calculator](https://github.com/Kartik247-coder/DSA/tree/master/0991-broken-calculator) |
+## String
+|  |
+| ------- |
+| [1328-break-a-palindrome](https://github.com/Kartik247-coder/DSA/tree/master/1328-break-a-palindrome) |
 <!---LeetCode Topics End-->
