@@ -1,4 +1,5 @@
 class Solution {
+    //
     public int brokenCalc(int start, int target) {
         if(start==target) return 0;
         int count=0;
