@@ -13,7 +13,7 @@
 ## Math
 |  |
 | ------- |
-| [0991-broken-calculator](https://github.com/Kartik247-coder/DSA/tree/master/0991-broken-calculator) |
+| 
 ## String
 |  |
 | ------- |
