@@ -26,6 +26,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kartik247-coder/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartik247-coder/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartik247-coder/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kartik247-coder/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartik247-coder/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | ------- |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartik247-coder/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartik247-coder/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
 | ------- |
