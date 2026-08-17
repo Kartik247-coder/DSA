@@ -24,6 +24,7 @@
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Kartik247-coder/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Kartik247-coder/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/Kartik247-coder/DSA/tree/master/1143-longest-common-subsequence) |
 | [1328-break-a-palindrome](https://github.com/Kartik247-coder/DSA/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -68,6 +69,7 @@
 | [0064-minimum-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kartik247-coder/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [1143-longest-common-subsequence](https://github.com/Kartik247-coder/DSA/tree/master/1143-longest-common-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Kartik247-coder/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Sorting
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Kartik247-coder/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
