@@ -59,6 +59,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kartik247-coder/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kartik247-coder/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Kartik247-coder/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1672-richest-customer-wealth](https://github.com/Kartik247-coder/DSA/tree/master/1672-richest-customer-wealth) |
@@ -79,6 +80,7 @@
 | [0647-palindromic-substrings](https://github.com/Kartik247-coder/DSA/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/Kartik247-coder/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Kartik247-coder/DSA/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Kartik247-coder/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Kartik247-coder/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Kartik247-coder/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Kartik247-coder/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kartik247-coder/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
