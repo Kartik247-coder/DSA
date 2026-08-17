@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0064-minimum-path-sum) |
+| [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kartik247-coder/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0064-minimum-path-sum) |
+| [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kartik247-coder/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Kartik247-coder/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -104,6 +106,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -129,6 +132,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kartik247-coder/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Kartik247-coder/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
@@ -136,4 +140,8 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Kartik247-coder/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Kartik247-coder/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
