@@ -13,6 +13,7 @@
 | [0991-broken-calculator](https://github.com/Kartik247-coder/DSA/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Kartik247-coder/DSA/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Kartik247-coder/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Math
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kartik247-coder/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kartik247-coder/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1672-richest-customer-wealth](https://github.com/Kartik247-coder/DSA/tree/master/1672-richest-customer-wealth) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Kartik247-coder/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -77,6 +80,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Kartik247-coder/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Kartik247-coder/DSA/tree/master/1143-longest-common-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Kartik247-coder/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Sorting
 |  |
