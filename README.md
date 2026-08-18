@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kartik247-coder/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Kartik247-coder/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Kartik247-coder/DSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -109,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Kartik247-coder/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kartik247-coder/DSA/tree/master/0075-sort-colors) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -205,6 +207,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Kartik247-coder/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kartik247-coder/DSA/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
