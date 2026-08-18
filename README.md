@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -38,16 +39,19 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Array
