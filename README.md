@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -40,6 +41,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -53,6 +55,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -149,6 +152,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kartik247-coder/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kartik247-coder/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
