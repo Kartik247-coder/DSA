@@ -16,6 +16,7 @@
 | [0860-lemonade-change](https://github.com/Kartik247-coder/DSA/tree/master/0860-lemonade-change) |
 | [0991-broken-calculator](https://github.com/Kartik247-coder/DSA/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Kartik247-coder/DSA/tree/master/1328-break-a-palindrome) |
+| [1386-cinema-seat-allocation](https://github.com/Kartik247-coder/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -78,6 +79,7 @@
 | [0986-interval-list-intersections](https://github.com/Kartik247-coder/DSA/tree/master/0986-interval-list-intersections) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Kartik247-coder/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kartik247-coder/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kartik247-coder/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Kartik247-coder/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Kartik247-coder/DSA/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Kartik247-coder/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartik247-coder/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kartik247-coder/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -154,6 +157,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Kartik247-coder/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kartik247-coder/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
