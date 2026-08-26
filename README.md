@@ -38,6 +38,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kartik247-coder/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kartik247-coder/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartik247-coder/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
 |  |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kartik247-coder/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartik247-coder/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartik247-coder/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
