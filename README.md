@@ -39,6 +39,7 @@
 | [1328-break-a-palindrome](https://github.com/Kartik247-coder/DSA/tree/master/1328-break-a-palindrome) |
 | [1528-shuffle-string](https://github.com/Kartik247-coder/DSA/tree/master/1528-shuffle-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1678-goal-parser-interpretation](https://github.com/Kartik247-coder/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/Kartik247-coder/DSA/tree/master/1859-sorting-the-sentence) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kartik247-coder/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
