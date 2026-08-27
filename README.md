@@ -89,6 +89,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kartik247-coder/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Kartik247-coder/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kartik247-coder/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1476-subrectangle-queries](https://github.com/Kartik247-coder/DSA/tree/master/1476-subrectangle-queries) |
 | [1528-shuffle-string](https://github.com/Kartik247-coder/DSA/tree/master/1528-shuffle-string) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Kartik247-coder/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0064-minimum-path-sum) |
+| [1476-subrectangle-queries](https://github.com/Kartik247-coder/DSA/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Kartik247-coder/DSA/tree/master/1672-richest-customer-wealth) |
 ## Stack
 |  |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Kartik247-coder/DSA/tree/master/0355-design-twitter) |
+| [1476-subrectangle-queries](https://github.com/Kartik247-coder/DSA/tree/master/1476-subrectangle-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
