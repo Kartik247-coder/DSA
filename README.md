@@ -62,6 +62,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Tree
@@ -83,6 +84,7 @@
 | [0075-sort-colors](https://github.com/Kartik247-coder/DSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Kartik247-coder/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0860-lemonade-change](https://github.com/Kartik247-coder/DSA/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kartik247-coder/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -133,6 +135,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Kartik247-coder/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kartik247-coder/DSA/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Kartik247-coder/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -142,6 +145,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Kartik247-coder/DSA/tree/master/0355-design-twitter) |
 | [0771-jewels-and-stones](https://github.com/Kartik247-coder/DSA/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -230,6 +234,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Kartik247-coder/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Kartik247-coder/DSA/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Kartik247-coder/DSA/tree/master/0647-palindromic-substrings) |
 | [0986-interval-list-intersections](https://github.com/Kartik247-coder/DSA/tree/master/0986-interval-list-intersections) |
 ## Divide and Conquer
