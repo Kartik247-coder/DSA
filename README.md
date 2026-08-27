@@ -38,6 +38,7 @@
 | [1328-break-a-palindrome](https://github.com/Kartik247-coder/DSA/tree/master/1328-break-a-palindrome) |
 | [1528-shuffle-string](https://github.com/Kartik247-coder/DSA/tree/master/1528-shuffle-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1859-sorting-the-sentence](https://github.com/Kartik247-coder/DSA/tree/master/1859-sorting-the-sentence) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kartik247-coder/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kartik247-coder/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -127,6 +128,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Kartik247-coder/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1859-sorting-the-sentence](https://github.com/Kartik247-coder/DSA/tree/master/1859-sorting-the-sentence) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Kartik247-coder/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kartik247-coder/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kartik247-coder/DSA/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/Kartik247-coder/DSA/tree/master/1859-sorting-the-sentence) |
 ## Sweep Line
 |  |
 | ------- |
