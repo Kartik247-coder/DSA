@@ -101,6 +101,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1672-richest-customer-wealth](https://github.com/Kartik247-coder/DSA/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Kartik247-coder/DSA/tree/master/1816-truncate-sentence) |
+| [1854-maximum-population-year](https://github.com/Kartik247-coder/DSA/tree/master/1854-maximum-population-year) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Kartik247-coder/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kartik247-coder/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -155,6 +156,7 @@
 ## Counting
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/Kartik247-coder/DSA/tree/master/1854-maximum-population-year) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartik247-coder/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartik247-coder/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Prefix Sum
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/Kartik247-coder/DSA/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
