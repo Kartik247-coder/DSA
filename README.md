@@ -50,6 +50,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kartik247-coder/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartik247-coder/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartik247-coder/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kartik247-coder/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Kartik247-coder/DSA/tree/master/0647-palindromic-substrings) |
 | [0986-interval-list-intersections](https://github.com/Kartik247-coder/DSA/tree/master/0986-interval-list-intersections) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kartik247-coder/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartik247-coder/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kartik247-coder/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
