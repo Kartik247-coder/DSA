@@ -19,6 +19,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Kartik247-coder/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Kartik247-coder/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Kartik247-coder/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kartik247-coder/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -107,6 +108,7 @@
 | [1672-richest-customer-wealth](https://github.com/Kartik247-coder/DSA/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Kartik247-coder/DSA/tree/master/1816-truncate-sentence) |
 | [1854-maximum-population-year](https://github.com/Kartik247-coder/DSA/tree/master/1854-maximum-population-year) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Kartik247-coder/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kartik247-coder/DSA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Kartik247-coder/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kartik247-coder/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
