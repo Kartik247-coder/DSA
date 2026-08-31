@@ -304,6 +304,7 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Kartik247-coder/DSA/tree/master/0355-design-twitter) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kartik247-coder/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
 |  |
 | ------- |
