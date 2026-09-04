@@ -123,6 +123,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kartik247-coder/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kartik247-coder/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kartik247-coder/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/Kartik247-coder/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,6 +333,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kartik247-coder/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1854-maximum-population-year](https://github.com/Kartik247-coder/DSA/tree/master/1854-maximum-population-year) |
+| [3903-smallest-stable-index-i](https://github.com/Kartik247-coder/DSA/tree/master/3903-smallest-stable-index-i) |
 ## String Matching
 |  |
 | ------- |
