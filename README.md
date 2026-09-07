@@ -7,6 +7,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kartik247-coder/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -81,6 +83,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -273,6 +276,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kartik247-coder/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Quicksort
 |  |
 | ------- |
@@ -325,6 +329,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0355-design-twitter](https://github.com/Kartik247-coder/DSA/tree/master/0355-design-twitter) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kartik247-coder/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Design
