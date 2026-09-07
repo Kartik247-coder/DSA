@@ -16,17 +16,21 @@
 class Solution {
     public static int count;
     public static int ans;
-    public static void sol(TreeNode root,int k){
-     if(root==null) return;
-     sol(root.left,k);
-     count++;
-     if(count==k) ans=root.val;
-     sol(root.right,k);
+    public static void inorder(TreeNode root,int k){
+        if(root==null) return;
+        inorder(root.left,k);
+        count++;
+        if(count==k){
+            ans=root.val;
+            return;
+        }
+        inorder(root.right,k);
+
     }
     public int kthSmallest(TreeNode root, int k) {
         count=0;
-        ans=-1;
-        sol(root,k);
+        ans=0;
+        inorder(root,k);
         return ans;
     }
 }
