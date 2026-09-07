@@ -8,6 +8,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Kartik247-coder/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Kartik247-coder/DSA/tree/master/0547-number-of-provinces) |
@@ -86,6 +88,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -210,6 +213,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Kartik247-coder/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Kartik247-coder/DSA/tree/master/0547-number-of-provinces) |
