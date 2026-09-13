@@ -123,6 +123,7 @@
 | [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Kartik247-coder/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0835-image-overlap](https://github.com/Kartik247-coder/DSA/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Kartik247-coder/DSA/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kartik247-coder/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0986-interval-list-intersections](https://github.com/Kartik247-coder/DSA/tree/master/0986-interval-list-intersections) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Kartik247-coder/DSA/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/Kartik247-coder/DSA/tree/master/0835-image-overlap) |
 | [1476-subrectangle-queries](https://github.com/Kartik247-coder/DSA/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Kartik247-coder/DSA/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kartik247-coder/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
