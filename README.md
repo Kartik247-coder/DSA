@@ -123,6 +123,7 @@
 | [0322-coin-change](https://github.com/Kartik247-coder/DSA/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Kartik247-coder/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0724-find-pivot-index](https://github.com/Kartik247-coder/DSA/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Kartik247-coder/DSA/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Kartik247-coder/DSA/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kartik247-coder/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -389,6 +390,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kartik247-coder/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Kartik247-coder/DSA/tree/master/0724-find-pivot-index) |
 | [1854-maximum-population-year](https://github.com/Kartik247-coder/DSA/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/Kartik247-coder/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kartik247-coder/DSA/tree/master/3904-smallest-stable-index-ii) |
