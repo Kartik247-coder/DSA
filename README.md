@@ -82,6 +82,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kartik247-coder/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Kartik247-coder/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kartik247-coder/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Kartik247-coder/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Kartik247-coder/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0064-minimum-path-sum) |
