@@ -89,6 +89,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kartik247-coder/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik247-coder/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kartik247-coder/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -132,6 +133,7 @@
 | [0860-lemonade-change](https://github.com/Kartik247-coder/DSA/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kartik247-coder/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0986-interval-list-intersections](https://github.com/Kartik247-coder/DSA/tree/master/0986-interval-list-intersections) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kartik247-coder/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/Kartik247-coder/DSA/tree/master/1109-corporate-flight-bookings) |
@@ -232,6 +234,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kartik247-coder/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik247-coder/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kartik247-coder/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kartik247-coder/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kartik247-coder/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -404,6 +407,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kartik247-coder/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik247-coder/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kartik247-coder/DSA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kartik247-coder/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Kartik247-coder/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1854-maximum-population-year](https://github.com/Kartik247-coder/DSA/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/Kartik247-coder/DSA/tree/master/3903-smallest-stable-index-i) |
