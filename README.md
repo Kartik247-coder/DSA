@@ -141,6 +141,7 @@
 | [1470-shuffle-the-array](https://github.com/Kartik247-coder/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kartik247-coder/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-subrectangle-queries](https://github.com/Kartik247-coder/DSA/tree/master/1476-subrectangle-queries) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kartik247-coder/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/Kartik247-coder/DSA/tree/master/1528-shuffle-string) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Kartik247-coder/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -180,6 +181,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Kartik247-coder/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Kartik247-coder/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Kartik247-coder/DSA/tree/master/1143-longest-common-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kartik247-coder/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Kartik247-coder/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -231,6 +233,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Kartik247-coder/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik247-coder/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kartik247-coder/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kartik247-coder/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kartik247-coder/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartik247-coder/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
