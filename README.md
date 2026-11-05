@@ -131,6 +131,7 @@
 | [0724-find-pivot-index](https://github.com/Kartik247-coder/DSA/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Kartik247-coder/DSA/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Kartik247-coder/DSA/tree/master/0860-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/Kartik247-coder/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kartik247-coder/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0986-interval-list-intersections](https://github.com/Kartik247-coder/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kartik247-coder/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -211,6 +212,7 @@
 | [0355-design-twitter](https://github.com/Kartik247-coder/DSA/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/Kartik247-coder/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Kartik247-coder/DSA/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/Kartik247-coder/DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Kartik247-coder/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -234,6 +236,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kartik247-coder/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik247-coder/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Kartik247-coder/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kartik247-coder/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kartik247-coder/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
