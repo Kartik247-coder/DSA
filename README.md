@@ -148,6 +148,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartik247-coder/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/Kartik247-coder/DSA/tree/master/1109-corporate-flight-bookings) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Kartik247-coder/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kartik247-coder/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Kartik247-coder/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -197,6 +198,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Kartik247-coder/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Kartik247-coder/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Kartik247-coder/DSA/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Kartik247-coder/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kartik247-coder/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Kartik247-coder/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik247-coder/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -289,6 +291,7 @@
 | [0064-minimum-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Kartik247-coder/DSA/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Kartik247-coder/DSA/tree/master/0835-image-overlap) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Kartik247-coder/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1476-subrectangle-queries](https://github.com/Kartik247-coder/DSA/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/Kartik247-coder/DSA/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kartik247-coder/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
