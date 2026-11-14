@@ -93,6 +93,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Kartik247-coder/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kartik247-coder/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kartik247-coder/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kartik247-coder/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -142,6 +143,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/Kartik247-coder/DSA/tree/master/1109-corporate-flight-bookings) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kartik247-coder/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Kartik247-coder/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kartik247-coder/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
