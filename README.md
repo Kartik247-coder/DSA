@@ -93,6 +93,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Kartik247-coder/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kartik247-coder/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartik247-coder/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kartik247-coder/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Kartik247-coder/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -141,6 +142,7 @@
 | [0986-interval-list-intersections](https://github.com/Kartik247-coder/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kartik247-coder/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartik247-coder/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kartik247-coder/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/Kartik247-coder/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kartik247-coder/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
