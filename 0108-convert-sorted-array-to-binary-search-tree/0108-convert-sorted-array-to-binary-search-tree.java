@@ -14,22 +14,20 @@
  * }
  */
 class Solution {
-    public static TreeNode inorder(int[] arr,int lo,int hi){
+    public static TreeNode inorder(int[]arr,int lo,int hi){
         if(lo>hi) return null;
-        if(lo==hi){
-            TreeNode root=new TreeNode(arr[lo]);
+        if(hi==lo){
+            TreeNode root=new TreeNode(arr[hi]);
             return root;
         }
         int mid=lo+(hi-lo)/2;
         TreeNode root=new TreeNode(arr[mid]);
         root.left=inorder(arr,lo,mid-1);
         root.right=inorder(arr,mid+1,hi);
-
         return root;
     }
-    public TreeNode sortedArrayToBST(int[] nums) {
-        int n=nums.length;
-        int lo=0,hi=n-1;
-        return inorder(nums,lo,hi);
+    public TreeNode sortedArrayToBST(int[] arr) {
+        int n=arr.length;
+        return inorder(arr,0,n-1);
     }
 }
