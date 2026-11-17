@@ -28,26 +28,17 @@ class Solution {
         if(head==null) return null;
         ListNode slow=head;
         ListNode fast=head;
-
         while(fast!=null && fast.next!=null){
             fast=fast.next.next;
             slow=slow.next;
         }
-        
         TreeNode root=new TreeNode(slow.val);
-
         if(slow==fast) return root;
-
         ListNode temp=head;
-
-        while(temp.next!=slow){
+        while(temp.next!=null && temp.next!=slow){
             temp=temp.next;
         }
-    
         temp.next=null;
-
-      
-
         root.left=sortedListToBST(head);
         root.right=sortedListToBST(slow.next);
         return root;
