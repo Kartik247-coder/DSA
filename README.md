@@ -164,6 +164,7 @@
 | [0860-lemonade-change](https://github.com/Kartik247-coder/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Kartik247-coder/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kartik247-coder/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kartik247-coder/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Kartik247-coder/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kartik247-coder/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -235,6 +236,7 @@
 | [0075-sort-colors](https://github.com/Kartik247-coder/DSA/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Kartik247-coder/DSA/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kartik247-coder/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kartik247-coder/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kartik247-coder/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -368,6 +370,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartik247-coder/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Kartik247-coder/DSA/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Kartik247-coder/DSA/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kartik247-coder/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Kartik247-coder/DSA/tree/master/0986-interval-list-intersections) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kartik247-coder/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Divide and Conquer
