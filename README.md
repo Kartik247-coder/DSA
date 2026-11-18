@@ -8,6 +8,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kartik247-coder/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kartik247-coder/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kartik247-coder/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kartik247-coder/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -120,6 +122,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kartik247-coder/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kartik247-coder/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
