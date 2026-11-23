@@ -148,6 +148,7 @@
 | [0056-merge-intervals](https://github.com/Kartik247-coder/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Kartik247-coder/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Kartik247-coder/DSA/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kartik247-coder/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kartik247-coder/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Kartik247-coder/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kartik247-coder/DSA/tree/master/0200-number-of-islands) |
@@ -330,6 +331,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kartik247-coder/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kartik247-coder/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kartik247-coder/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kartik247-coder/DSA/tree/master/0496-next-greater-element-i) |
@@ -341,6 +343,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kartik247-coder/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kartik247-coder/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Kartik247-coder/DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kartik247-coder/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -516,4 +519,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Kartik247-coder/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kartik247-coder/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
