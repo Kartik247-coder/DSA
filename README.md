@@ -161,6 +161,7 @@
 | [0658-find-k-closest-elements](https://github.com/Kartik247-coder/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Kartik247-coder/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kartik247-coder/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Kartik247-coder/DSA/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/Kartik247-coder/DSA/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Kartik247-coder/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Kartik247-coder/DSA/tree/master/0904-fruit-into-baskets) |
@@ -329,6 +330,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kartik247-coder/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kartik247-coder/DSA/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Kartik247-coder/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kartik247-coder/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kartik247-coder/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kartik247-coder/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -431,6 +433,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Kartik247-coder/DSA/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kartik247-coder/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
